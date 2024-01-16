@@ -6,7 +6,7 @@ Simple, funny implementation of linked list in C
 - libc
 
 # Example
-Provided in `main.c``
+Provided in `example/main.c`
 
 # TODO
 Removing from list
